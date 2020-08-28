@@ -1,0 +1,13 @@
+{
+  "name": "t-modal-menu-slider",
+  "version": "1.0.0",
+  "description": "Simple landing page with sliding menu and modal",
+  "main": "script.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^11.3.2"
+  },
+  "author": "M Toufiq ELAHI"
+}
